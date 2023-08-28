@@ -8,7 +8,7 @@ pip install nltk
 Python 3.n
 
 # Steps to run
-Clone this repository or the HINGLISH Translation.ipynb file.
+Clone this repository or the HINGLISH Translation from English Assignment.ipynb file.
 Complete the installations
 Run all the cells one by one or Run All.
 Enter the English sentence that you want to translate when the input prompt appears.
